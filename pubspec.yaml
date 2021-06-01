@@ -1,7 +1,6 @@
 name: custom_app_bar
 description: A Flutter  AppBar.Writted with pure dart, supported both iOS and Android.
 version: 0.0.1
-author: xiaoqi <yyoujian08@163.com>
 homepage: https://github.com/xiaoqi666/custom_app_bar
 
 environment:
